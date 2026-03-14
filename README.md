@@ -1,4 +1,4 @@
-# 🍔 Sabor Express - Sistema de Gestão de Restaurantes
+# 🛎️ Sabor Express - Sistema de Gestão de Restaurantes
 
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
