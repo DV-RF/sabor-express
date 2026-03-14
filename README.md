@@ -29,5 +29,4 @@ No entanto, **este repositório vai além do escopo original do curso**. O códi
 ## 💻 Como rodar o projeto localmente
 
 1. Clone este repositório em sua máquina:
-   ```bash
-   git clone [https://github.com/DV-RF/sabor-express.git](https://github.com/DV-RF/sabor-express.git)
+  git clone https://github.com/DV-RF/sabor-express.git
